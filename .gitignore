@@ -60,7 +60,6 @@ Temporary Items
 .Trash-*
 
 # Ignore changes to the custom css files.
-/css/custom.css
 
 # Vim
 ## swap
